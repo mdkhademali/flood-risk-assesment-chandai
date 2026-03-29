@@ -142,3 +142,5 @@ This project is licensed under the [MIT License](LICENSE).
 **Built with** Google Earth Engine &nbsp;|&nbsp; Python &nbsp;|&nbsp; Remote Sensing
 
 </div>
+
+© mdkhademali
