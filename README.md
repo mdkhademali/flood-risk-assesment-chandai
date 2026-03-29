@@ -66,7 +66,7 @@ $$\text{FloodRisk} = \text{NDWI}_n \times 0.5 + \text{Elevation}_n \times (-0.3)
 
 ---
 
-## Machine Learning — Random Forest
+## Machine Learning: Random Forest
 
 - **Algorithm:** `smileRandomForest` (100 trees)
 - **Features:** `NDWI`, `elevation`, `slope`
